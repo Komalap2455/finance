@@ -22,3 +22,7 @@ df.head()
 # To ignore files and folder use .gitignore
 
 # touch .gitignore
+
+#%% describe data
+df.describe()
+# %%
